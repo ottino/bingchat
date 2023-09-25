@@ -1,5 +1,4 @@
 # API for Bing Chat
-I am going to send a repository to GitHub, but I need it to be analyzed.
 This API is a chat bot for querying Bing Chat with a Node.js app.
 I am using the 'chatgpt-api' library from the 'transitive-bullshit' repository.
 
